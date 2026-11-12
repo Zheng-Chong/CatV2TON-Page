@@ -6,8 +6,8 @@
 
 CatV2TON is a lightweight Diffusion Transformer (DiT)-based method for image and video virtual try-on. It uses temporal concatenation of video frames and garment conditions to support both image and video try-on within a unified framework.
 
-## Availability
+## About
 
-This repository serves as the project page for our paper. Due to project requirements, the source code is no longer publicly available from this repository. The paper link and project overview are retained for reference.
+This repository is the official project page for our paper, providing a brief project overview and a link to the publication.
 
 Thank you for your interest and support.
